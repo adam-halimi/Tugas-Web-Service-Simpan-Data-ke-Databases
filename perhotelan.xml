@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<perhotelan>
+<hotel> 
+	<nama>wahid</nama>
+	<harga>100000</harga>
+	<tipe>suit</tipe>
+	<alamat>
+		<jalan>Pemuda</jalan>
+		<nomor>56</nomor>
+	</alamat>
+	<bintang>5</bintang>
+	<vasilitas>Kolam Renang</vasilitas>
+	<pemilik>
+		<namapml>Dr. Wahid</namapml>
+		<nohp>085623734123</nohp>
+		<email>wahid@gmail.com</email>
+	</pemilik>
+</hotel>
+
+<hotel>
+	<nama>mutiara</nama> 
+	<harga>300000</harga>
+	<tipe>VIP</tipe>
+	<alamat>
+		<jalan>Pemotongan</jalan>
+		<nomor>12</nomor>
+	</alamat>
+	<bintang>8</bintang>
+	<vasilitas>Wifi</vasilitas>
+	<pemilik>
+		<namapml>Ling Tsue</namapml>
+		<nohp>082445873491</nohp>
+		<email>lin@gmail.com</email>
+	</pemilik>
+</hotel>
+</perhotelan>
